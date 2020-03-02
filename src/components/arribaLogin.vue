@@ -85,6 +85,9 @@ export default {
 </script>
 
 <style scoped>
+.titulo{
+  min-height: 100vh;
+}
 .tamaño{
   width: 210px;
   height: 130px;
