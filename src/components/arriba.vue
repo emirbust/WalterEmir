@@ -17,7 +17,7 @@
     <div>
       <div style=" left: 22%;" class="container">
         <h1 style="color:antiquewhite; left: 50%; width: 550px;" class="title is-1">
-          Programas y peliculas sin limite y mucho mas
+          Programas y peliculas sin limite y mucho mas.
         </h1>
         <h1>
           Disfruta donde quieras. Cancela en cualquier momento.

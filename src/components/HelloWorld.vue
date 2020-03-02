@@ -1,7 +1,7 @@
 <template>
  <div class="containere">
    <div class="transparecia">
-    <arriba/>
+   <arriba/>
     <abajo/>
    </div>
  </div>
